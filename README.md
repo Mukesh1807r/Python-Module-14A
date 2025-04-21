@@ -45,11 +45,13 @@ print(list(queue))
 ```
 ---
 
-##Output
+## Output
 
 ![image](https://github.com/user-attachments/assets/11f4d1c8-5dde-4abd-9ca7-d6a0672b4b45)
 
-##Result
+---
+
+## Result
 
 Thus, the program was successfully created and executed to delete an element from the circular queue.
 
